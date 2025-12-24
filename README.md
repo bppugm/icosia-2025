@@ -25,7 +25,9 @@ This is the copy of website for The 6<sup>th</sup> International Conference on S
 
 ### Jumbotron
 
-+ Rod Long via [Unsplash](hhttps://unsplash.com/photos/green-book-lot-J-ygvQbilXU); [Free to use](https://unsplash.com/license).
++ ICoSIA 2025: Rod Long via [Unsplash](https://unsplash.com/photos/green-book-lot-J-ygvQbilXU); [Free to use](https://unsplash.com/license).
++ ICST UGM 2025: Anton Maksimov 5642.su via [Unsplash](https://unsplash.com/photos/red-yellow-and-green-lights-2UH8t9FpIz4); [Free to use](https://unsplash.com/license).
++ BioMIC 2025: JJ Ying via [Unsplash](https://unsplash.com/photos/white-and-gray-optical-illusion-7JX0-bfiuxQ); [Free to use](https://unsplash.com/license).
 
 ### Symposia images
 All symposia images are free to use.
@@ -44,7 +46,10 @@ All symposia images are free to use.
 + Clarivate logo © Clarivate.
 
 ### Other images
-+  Venue image ©  Faculty of Cultural Sciences UGM.
++ Venue image © Faculty of Cultural Sciences UGM.
++ 404 image © [pch.vector](https://www.freepik.com/free-vector/people-using-online-apps-set_6974932.htm); [Free to use](https://www.freepikcompany.com/legal?_gl=1*1mzv534*fp_ga*NDY3NDMwMDk4LjE2ODA3MjU1NjI.*fp_ga_QWX66025LC*MTY4MDkyMzUzOS41LjEuMTY4MDkyMzU4My4xNi4wLjA.*_ga*NDY3NDMwMDk4LjE2ODA3MjU1NjI.*_ga_18B6QPTJPC*MTY4MDkyMzUzOS41LjAuMTY4MDkyMzU0Mi41Ny4wLjA.#nav-freepik-license).
++ Presenter image by [M Rafieiy](https://www.flickr.com/photos/rafieiy/37070590764/); [CC BY NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/).
++ Non-presenter image by [Joakim Honkasalo](https://unsplash.com/photos/DurC25GdOvk); [Free to use](https://unsplash.com/license).
 
 ## License
 
