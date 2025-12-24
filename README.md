@@ -47,7 +47,7 @@ All symposia images are free to use.
 
 ### Other images
 + Venue image © Faculty of Cultural Sciences UGM.
-+ 404 image © [pch.vector](https://www.freepik.com/free-vector/people-using-online-apps-set_6974932.htm); [Free to use](https://www.freepikcompany.com/legal?_gl=1*1mzv534*fp_ga*NDY3NDMwMDk4LjE2ODA3MjU1NjI.*fp_ga_QWX66025LC*MTY4MDkyMzUzOS41LjEuMTY4MDkyMzU4My4xNi4wLjA.*_ga*NDY3NDMwMDk4LjE2ODA3MjU1NjI.*_ga_18B6QPTJPC*MTY4MDkyMzUzOS41LjAuMTY4MDkyMzU0Mi41Ny4wLjA.#nav-freepik-license).
++ 404 image © [pch.vector](https://www.freepik.com/free-vector/people-using-online-apps-set_6974932.htm); [Free to use](https://support.freepik.com/s/topic/0TO3V000000Cla4WAC/licenses?_gl=1*1didoty*_gcl_au*MzQ0MTY4OTYxLjE3NjI0MDEzNDg.*_ga*ODY4NTQ4NjQ1LjE3NDY0MzM5MDM.*_ga_QWX66025LC*czE3NjY1NjEwNjYkbzckZzAkdDE3NjY1NjEwNjYkajYwJGwwJGgw).
 + Presenter image by [M Rafieiy](https://www.flickr.com/photos/rafieiy/37070590764/); [CC BY NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/).
 + Non-presenter image by [Joakim Honkasalo](https://unsplash.com/photos/DurC25GdOvk); [Free to use](https://unsplash.com/license).
 
