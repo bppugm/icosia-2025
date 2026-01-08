@@ -36,7 +36,7 @@ All symposia images are free to use.
 + Land and Environmental Management symposium by Karsten Sporenberg via [Pexels](https://www.pexels.com/photo/aquaculture-fish-farming-in-greece-waters-29388727/); [Free to use](https://www.pexels.com/license/). 
 + Precision Nutrition Technology symposium by Maca Naparstek via [Pexels](https://www.pexels.com/photo/herd-of-sheep-eating-food-1153756/); [Free to use](https://www.pexels.com/license/).
 + Smart and Precision Farming symposium by Ricky Esquivel via [Pexels](https://www.pexels.com/photo/photograph-of-greenhouse-2560899/); [Free to use](https://www.pexels.com/license/).
-+ Smart Genetics Resource Management and Utilization symposium by Gilmer Diaz Estela via [Pexels](https://www.pexels.com/photo/brown-and-white-chickens-on-gray-concrete-floor-3130897/; [Free to use](https://www.pexels.com/license/).
++ Smart Genetics Resource Management and Utilization symposium by Gilmer Diaz Estela via [Pexels](https://www.pexels.com/photo/brown-and-white-chickens-on-gray-concrete-floor-3130897/); [Free to use](https://www.pexels.com/license/).
 + Sustainable Food Production symposium by Mark Stebnicki via [Pexels](https://www.pexels.com/photo/assorted-vegetable-store-displays-2252584/); [Free to use](https://www.pexels.com/license/).
 
 ### Logos
@@ -53,4 +53,4 @@ All symposia images are free to use.
 
 ## License
 
-© 2025 UGM's Research Directorate under the MIT License.
+© 2025&ndash;2026 UGM's Research Directorate under the MIT License.
